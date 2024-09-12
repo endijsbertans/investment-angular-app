@@ -25,6 +25,6 @@ export class InvestmentService{
         totalAmountInvested: initialInvestment + annualInvestment * year,
       });
     }
-    this.resultsData.set(annualData);
+    this.resultsData = annualData;
   }
 }
