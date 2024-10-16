@@ -1,3 +1,26 @@
+#This project is a simple Investment Calculator App that allows users to calculate their return on investment (ROI) based on the following input parameters:
+
+- Initial Amount: The starting amount of money invested.
+- Annual Investment: The additional amount invested each year.
+- Expected Return Rate: The estimated annual return rate (in percentage).
+- Duration: The number of years the investment will be held.
+
+![image](https://github.com/user-attachments/assets/ed6066bd-48f5-4fe2-90f7-0808bed4eb41)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
