@@ -1,4 +1,6 @@
-#This project is a simple Investment Calculator App that allows users to calculate their return on investment (ROI) based on the following input parameters:
+I followed Angular tutorial to make this project.
+
+It's a simple Investment Calculator App that allows users to calculate their return on investment (ROI) based on the following input parameters:
 
 - Initial Amount: The starting amount of money invested.
 - Annual Investment: The additional amount invested each year.
